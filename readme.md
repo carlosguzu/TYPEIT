@@ -1,6 +1,6 @@
 # TYPE IT!
 
-![Type It Home](/srcimg/typeit-home.jpg)
+![Type It Home](/src/img/typeit-home.jpg)
 
 
 
